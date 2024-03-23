@@ -38,7 +38,7 @@ Affiche l'aide et la liste des commandes disponibles.
 Avant d'utiliser le bot, assurez-vous de configurer les paramètres nécessaires dans le `main.py`
 
 ## Installation
-1. Cloner ce dépôt : `git clone https://github.com/InsurWeb/bot-osint-discord.git`
+1. Cloner ce dépôt : `git clone https://github.com/InsurWeb/Advanced-Osint-Bot.git`
 2. Installer les dépendances : `pip install -r requirements.txt`
 3. Démarrer le bot : `python main.py`
 
